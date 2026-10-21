@@ -29,7 +29,6 @@ A aplicação simula o ecossistema de uma empresa institucional (TechCorp). O us
 - **Usuário:** `aluno`
 - **Senha:** `123456`
 
-*(Conforme as regras do enunciado, não é utilizado banco de dados, API, Firebase ou localStorage para a persistência de credenciais)*[cite: 3, 4, 5].
 
 ---
 
